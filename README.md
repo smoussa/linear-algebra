@@ -1,5 +1,5 @@
 # linear-algebra
 Notebooks on experiments with linear algebra
 
-Based on lessons learnt at:
-https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
+- [Blog post](https://forums.fast.ai/t/part-3-background-removal-with-robust-pca/4286)
+- [Course tutorial](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
